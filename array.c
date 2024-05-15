@@ -2,11 +2,15 @@
 
 void main ()
 {
-    int size[8];
+    int A[8];
 
-    size[2]=8;
+    A[2]=8;
+    A[0]=54;
 
-    printf("%d\n",size[2]);
+
+    printf("%d\n",A[2]);
+    printf("%d\n",A[0]);
+    printf["%d,n",a[5]];
     
 
 }
