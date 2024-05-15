@@ -1,16 +1,15 @@
 #include<stdio.h>
 
-void main ()
+int main ()
 {
-    int A[8];
+    int A [70];
 
-    A[2]=8;
-    A[0]=54;
+    A[66]=43;
+    A[12]=54;
 
+    printf("%d\n",A[66]);
+    printf("%d\n",A[12]);
 
-    printf("%d\n",A[2]);
-    printf("%d\n",A[0]);
-    printf["%d,n",a[5]];
-    
+    return 0;
 
 }
