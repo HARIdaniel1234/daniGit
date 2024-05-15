@@ -1,9 +1,9 @@
 #include<stdio.h>
-
+#include<math.h>
 void main()
  
 {
-    printf("hello shree \n");
+    printf("hello.c\n");
 
 
 }
