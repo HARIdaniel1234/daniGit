@@ -2,9 +2,9 @@
 
 void main ()
 {
-    int size[5];
+    int size[8];
 
-    size[2]=7;
+    size[2]=8;
 
     printf("%d\n",size[2]);
     
