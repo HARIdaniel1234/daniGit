@@ -1,4 +1,6 @@
-#include<stdio.h>
+#include<stdio.h> 
+// 16.05.2024
+
 
 void main ()
 
@@ -11,4 +13,4 @@ void main ()
     printf("a = %d",a);
 
 
-}
+} 
